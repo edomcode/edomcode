@@ -10,7 +10,7 @@ A **second-year Computer Science student** and an aspiring **Back-End Web Develo
 - 🤝 Collaboration is my fuel—let's create something impactful together. 🌍✨  
 - 💬 Feedback is my favorite bug-fix. I'm always looking to improve and grow.  
 - 📬 Say hi anytime: [edenyehualashet27@gmail.com](mailto:edenyehualashet27@gmail.com)  
-- 🌟 Explore my work: [eden.github.io](https://eden.github.io) *(Update if needed)*
+- 🌟 Explore my work: [eden.github.io](https://eden.github.io) 
 
 ---
 
